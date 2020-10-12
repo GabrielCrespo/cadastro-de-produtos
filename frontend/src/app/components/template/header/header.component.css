@@ -10,6 +10,10 @@
     text-decoration: none;
 }
 
+.header a:visited{
+    color: #000;
+}
+
 .logo{
     height: 32px;
 } 
@@ -21,3 +25,4 @@
 .header .title-group i{
     padding-right: 5px;
 }
+
